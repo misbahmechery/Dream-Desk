@@ -1,4 +1,4 @@
-# Dream Desk
+# Project 0 - Dream Desk
 
 An open-source furniture design of my personal dream desk, designed in Blender and brought to life by a skilled carpenter.
 
