@@ -63,8 +63,11 @@ If you build one, I'd love to see what you create.
 **3D Design:** Blender
 **Fabrication:** Skilled carpenter / woodworking craftsmanship
 
+
 ## License
 
-The licensing information for this project will be added here.
+This project is licensed under the **CERN Open Hardware Licence Version 2 — Permissive (CERN-OHL-P-2.0)**.
 
----
+You are free to use, study, modify, manufacture, distribute, and sell products based on this design, subject to the terms of the licence.
+
+See the [`LICENSE`](LICENSE) file for the complete licence text.
