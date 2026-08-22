@@ -61,7 +61,7 @@ If you build one, I'd love to see what you create.
 
 **Design:** Me
 **3D Design:** Blender
-**Fabrication:** Skilled carpenter / woodworking craftsmanship
+**Fabrication:** Skilled carpenter
 
 
 ## License
